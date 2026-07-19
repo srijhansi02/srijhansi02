@@ -1,8 +1,13 @@
+<p align="center">
+  <img src="banner.png" alt="Sri Jhansi Banner" width="100%">
+</p><img width="1500" height="500" alt="banner png" src="https://github.com/user-attachments/assets/f469616f-0b08-41f1-8ed1-97a77bc3607a" />
+
+
 Hi, I'm Sri Jhansi 
 
 AI Engineer | Full Stack Developer | Backend Developer
 
-I build AI-powered applications, intelligent automation workflows,
+I build AI powered applications, intelligent automation workflows,
 and scalable web platforms using Python, Node.js, React, NLP,
 REST APIs, and AI Agents.
 
@@ -17,7 +22,8 @@ Currently interested in
 
 Current Focus
 
-Building products that solve real-world business problems using AI.
+Building production ready AI products that solve real world business problems through intelligent automation and scalable software engineering.
+
 
 Open to
 
@@ -31,31 +37,69 @@ Hyderabad, India
 
 ## 🛠️ Tech Stack & Tools
 
-- **Languages:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-- **Backend:** ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white) ![REST APIs](https://img.shields.io/badge/REST%20APIs-009688?style=flat-square) ![API Integration](https://img.shields.io/badge/API%20Integration-008080?style=flat-square)
-- **Web Development:** ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-- **Automation:** ![n8n](https://img.shields.io/badge/n8n%20Workflow%20Automation-FF6F61?style=flat-square&logo=n8n&logoColor=white)
-- **Tools & Core:** ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) ![HERE Maps API](https://img.shields.io/badge/HERE%20Maps%20API-00A0E2?style=flat-square)
+### 💻 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### ⚙️ Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+### 🤖 AI & Automation
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![API Integration](https://img.shields.io/badge/API%20Integration-4CAF50?style=for-the-badge&logo=postman&logoColor=white)
+
+### 🌐 Web
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### 🗺 APIs & Maps
+![HERE Maps](https://img.shields.io/badge/HERE%20Maps-00AFAA?style=for-the-badge&logo=here&logoColor=white)
+
+### 🛠 Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ### 🧠 Core CS Fundamentals
-* Data Structures and Algorithms (DSA) • Object-Oriented Programming (OOP) • Database Management Systems (DBMS) 
+* Data Structures and Algorithms (DSA) • Object Oriented Programming (OOP) • Database Management Systems (DBMS) 
 * Operating Systems (OS) • Computer Networks (CN) • Distributed Systems • Software Engineering
+
+
 
 
 ## 🚀 Featured Projects
 
-* **AI Meeting Summariser** - An automated system that converts spoken meeting audio into structured business documentation using NLP.
-* **Voltway** - Voltway is a real time web application designed to help electric vehicle drivers easily locate and navigate to the nearest charging stations. It provides live updates on station availability, charger types, and optimal routes to ensure a seamless charging experience on the go
-* **NeuroSync GuardAI** - Developed a voice scam detection platform that identifies cloned and synthetic voices during live phone calls. Built
-backend services with Node.js and REST APIs, automated workflows using n8n, and created an awareness portal
-focused on digital safety.
+🛡 **NeuroSync Guard**  
+AI powered voice scam detection platform that identifies cloned and synthetic voices during live phone calls.
+
+🤝 **SmartMeet AI**  
+Meeting intelligence platform that converts conversations into summaries, action items, and structured documentation.
+
+🌿 **GreenSphere**  
+AI powered plant disease detection and smart plant care platform with automation workflows.
+
+⚡ **Voltway**  
+Real time EV charging station locator with route optimization and charger availability.
+
+🌐 **Cross Runtime Event Fabric**  
+Distributed event driven communication framework for scalable applications.
 
 
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=srijhansi02&show_icons=true&theme=dark" alt="Jhansi's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srijhansi02&layout=compact&theme=dark" alt="Top Languages" width="48%" />
+<a href="https://github.com/srijhansi02">
+<img src="https://github-readme-stats.vercel.app/api?username=srijhansi02&show_icons=true&theme=tokyonight&hide_border=true" width="48%">
+</a>
+
+<a href="https://github.com/srijhansi02">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srijhansi02&layout=compact&theme=tokyonight&hide_border=true" width="48%">
+</a>
 </p>
 
 
